@@ -1,0 +1,2 @@
+Extract and Move Method	Translation	Positive	Negative	EmotionRationale
+5701 commit 6a5486b19168b8f59ef18204572342cd4a4271aa lucene-3490: restructure codec hierarchy 	5701 commit 6a5486b19168b8f59ef18204572342cd4a4271a lucene-3490: restructure codec hierarchy	1	-1	 5701[0] commit[0] 6a5486b19168b8f59ef18204572342cd4a4271aa/6a5486b19168b8f59ef18204572342cd4a4271a[0] lucene[0] -3490[0] restructure[0] codec[0] hierarchy[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

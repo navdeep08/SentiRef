@@ -1,0 +1,2 @@
+Extract and Move Method	Translation	Positive	Negative	EmotionRationale
+6928 commit 7a3b25d02dcc5738e8dec1c4ccc62dd1511b4837 refactored the geometry wrappers 	6928 commit 7a3b25d02dcc5738e8dec1c4cc62dd1511b4837 refactored the geometry wrappers	1	-1	 6928[0] commit[0] 7a3b25d02dcc5738e8dec1c4ccc62dd1511b4837/7a3b25d02dcc5738e8dec1c4cc62dd1511b4837[0] refactored[0] the[0] geometry[0] wrappers[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

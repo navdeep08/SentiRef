@@ -1,0 +1,6 @@
+6061 6a5486b19168b8f59ef18204572342cd4a4271aa 1 -1 0 0
+
+  MEAN POSITIVE   �
+   mean negative  � 
+ mean commulative  0
+ mean commulative  subtract0

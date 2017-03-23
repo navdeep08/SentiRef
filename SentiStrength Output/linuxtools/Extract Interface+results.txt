@@ -1,0 +1,2 @@
+Extract Interface	Translation	Positive	Negative	EmotionRationale
+5538 commit cc41430ddc14815a02b6277f88cfc8bc392cbbda major refactor for supporting multiple layouts. 	5538 commit cc41430ddc14815a02b6277f88cfc8bc392cbbda major refactor for supporting multiple layouts.	2	-1	 5538[0] commit[0] cc41430ddc14815a02b6277f88cfc8bc392cbbda[0] major[0] refactor[0] for[0] supporting[1] multiple[0] layouts[0] [[Sentence=-1,2=word max, 1-5]][[[2,-1 max of sentences]]]

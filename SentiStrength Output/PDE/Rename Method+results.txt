@@ -1,0 +1,3 @@
+Rename Method	Translation	Positive	Negative	EmotionRationale
+3767 commit 5c8b4a86ff1161e754e4be1cced06d2ca9c198e8 resource refactoring - bug 153329 	3767 commit 5c8b4a86ff1161e754e4be1cced06d2ca9c198e8 resource refactoring - bug 153329	1	-1	 3767[0] commit[0] 5c8b4a86ff1161e754e4be1cced06d2ca9c198e8[0] resource[0] refactoring[0] bug[0] 153329[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]
+3854 commit 33fa55d759c7e7b49bde6fe9e3305dd4a7f23e42 javadoc and refactoring 	3854 commit 33fa55d759c7e7b49bde6fe9e3305dd4a7f23e42 javadoc and refactoring	1	-1	 3854[0] commit[0] 33fa55d759c7e7b49bde6fe9e3305dd4a7f23e42[0] javadoc[0] and[0] refactoring[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

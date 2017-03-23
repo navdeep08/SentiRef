@@ -1,0 +1,2 @@
+Push Down Method	Translation	Positive	Negative	EmotionRationale
+64 commit 200d2f9935c537bf91328150192386d4fbf11554 mng-5871 refactoring: put url extrapolation algorithm in inheritance model merger 	64 commit 200d2f9935c537bf91328150192386d4fbf11554 mng-5871 refactoring: put url extrapolation algorithm in inheritance model merger	1	-1	 64[0] commit[0] 200d2f9935c537bf91328150192386d4fbf11554[0] mng[0] -5871[0] refactoring[0] put[0] url[0] extrapolation[0] algorithm[0] in[0] inheritance[0] model[0] merger[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

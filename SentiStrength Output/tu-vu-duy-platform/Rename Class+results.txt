@@ -1,0 +1,2 @@
+Rename Class	Translation	Positive	Negative	EmotionRationale
+5845 commit 6608ea4eae56fd1596f71e2569be10bef3e1d7eb refactor to rename skinlistener to skinconfiglistener 	5845 commit 6608ea4eae56fd1596f71e2569be10bef3e1d7eb refactor to rename skinlistener to skinconfiglistener	1	-1	 5845[0] commit[0] 6608ea4eae56fd1596f71e2569be10bef3e1d7eb[0] refactor[0] to[0] rename[0] skinlistener[0] to[0] skinconfiglistener[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

@@ -1,0 +1,2 @@
+Extract Interface	Translation	Positive	Negative	EmotionRationale
+6854 commit ae1ae086e2e576b730395257287cee0cc3099c91 refactor netcdf reader for better extensibility 	6854 commit ae1ae086e2e576b730395257287cee0cc3099c91 refactor netcdf reader for better extensibility	1	-1	 6854[0] commit[0] ae1ae086e2e576b730395257287cee0cc3099c91[0] refactor[0] netcdf[0] reader[0] for[0] better[0] extensibility[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

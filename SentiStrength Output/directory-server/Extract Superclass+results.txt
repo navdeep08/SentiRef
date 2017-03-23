@@ -1,0 +1,2 @@
+Extract Superclass	Translation	Positive	Negative	EmotionRationale
+8508 commit f0f7516f7d7bc2788add156d4724e35cc5824743 merging branch 'db_refactor' into trunk 	8508 commit f0f7516f7d7bc2788add156d4724e35cc5824743 merging branch 'db_refactor' into trunk	1	-1	 8508[0] commit[0] f0f7516f7d7bc2788add156d4724e35cc5824743[0] merging[0] branch[0] 'db_refactor'[0] into[0] trunk[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

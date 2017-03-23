@@ -1,0 +1,2 @@
+Inline Method	Translation	Positive	Negative	EmotionRationale
+5016 commit 164b4fd1cd4ca661b10ac090fa1ccce3cdb532f8 skinservice refactoring 	5016 commit 164b4fd1cd4ca661b10ac090fa1cce3cdb532f8 skinservice refactoring	1	-1	 5016[0] commit[0] 164b4fd1cd4ca661b10ac090fa1ccce3cdb532f8/164b4fd1cd4ca661b10ac090fa1cce3cdb532f8[0] skinservice[0] refactoring[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

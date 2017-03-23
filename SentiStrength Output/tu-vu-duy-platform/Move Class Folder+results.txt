@@ -1,0 +1,3 @@
+Move Class Folder	Translation	Positive	Negative	EmotionRationale
+5638 commit d7b7a72626ea787f99449f1686ea6d296ad81237 tools-26 refactor the organization 	5638 commit d7b7a72626ea787f99449f1686ea6d296ad81237 tools-26 refactor the organization	1	-1	 5638[0] commit[0] d7b7a72626ea787f99449f1686ea6d296ad81237[0] tools[0] -26[0] refactor[0] the[0] organization[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]
+5639 commit b2b6564179cb55d50ec759fed8a2e1ec43d36d0b tools-26 refactor the organization 	5639 commit b2b6564179cb55d50ec759fed8a2e1ec43d36d0b tools-26 refactor the organization	1	-1	 5639[0] commit[0] b2b6564179cb55d50ec759fed8a2e1ec43d36d0b[0] tools[0] -26[0] refactor[0] the[0] organization[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

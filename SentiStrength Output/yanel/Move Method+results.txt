@@ -1,0 +1,2 @@
+Move Method	Translation	Positive	Negative	EmotionRationale
+8005 commit c2ddeb4be95e28fde1b68010b6edd2bf6d22c7d1 refactoring patches of josias added 	8005 commit c2ddeb4be95e28fde1b68010b6edd2bf6d22c7d1 refactoring patches of josias added	1	-1	 8005[0] commit[0] c2ddeb4be95e28fde1b68010b6edd2bf6d22c7d1[0] refactoring[0] patches[0] of[0] josias[0] added[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

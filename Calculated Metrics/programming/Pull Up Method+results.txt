@@ -1,0 +1,7 @@
+179 11d66a364db674dbb0a51d17f5a9d0e4118a7e2e 1 -1 0 0
+3879 14350844877684d3b0bef7a6a3a36c57b5e60ec6 1 -1 0 0
+
+  MEAN POSITIVE   �
+   mean negative  � 
+ mean commulative  0
+ mean commulative  subtract0

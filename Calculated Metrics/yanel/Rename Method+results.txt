@@ -1,0 +1,12 @@
+1371 1f748e2a84b63a012ddfcfca01fe2d56f5eaba8d 1 -1 0 0
+3276 a4eac8c2777ac5ae383dc6b7513f677e2e89d1b2 1 -1 0 0
+3938 71256759078caf2ff34fd2d593f41af7373e8bb3 1 -1 0 0
+5191 35a9ad9fb4dcfa6fadc4d320b4c0b4c7ee51ae88 1 -1 0 0
+5256 90dc095799c965b00b26cee4802f626432fdc0e8 1 -2 2 -1
+6249 2f4f504deeb0d856bde5c0509abe5d7bfb39e435 1 -1 0 0
+7852 f4893410cd3e15f5f09791dbf74aed9c8e51b7c9 1 -1 0 0
+
+  MEAN POSITIVE   �
+   mean negative  2 
+ mean commulative  0.29
+ mean commulative  subtract-0.14

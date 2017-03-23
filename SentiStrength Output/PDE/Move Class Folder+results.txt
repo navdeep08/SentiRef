@@ -1,0 +1,2 @@
+Move Class Folder	Translation	Positive	Negative	EmotionRationale
+3736 commit b140e00a1a14133b040d69b1bf68821a14c57d61 bug 153642 - refactor out templates into a separate plugin(s) 	3736 commit b140e00a1a14133b040d69b1bf68821a14c57d61 bug 153642 - refactor out templates into a separate plugin(s)	1	-1	 3736[0] commit[0] b140e00a1a14133b040d69b1bf68821a14c57d61[0] bug[0] 153642[0] refactor[0] out[0] templates[0] into[0] a[0] separate[0] plugin[0] s[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

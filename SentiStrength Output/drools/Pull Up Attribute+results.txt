@@ -1,0 +1,2 @@
+Pull Up Attribute	Translation	Positive	Negative	EmotionRationale
+10033 commit 73dd24ce6f7638ce7724fcdd270ac7d1a7f75104 code clean up 	10033 commit 73dd24ce6f7638ce7724fcdd270ac7d1a7f75104 code clean up	1	-1	 10033[0] commit[0] 73dd24ce6f7638ce7724fcdd270ac7d1a7f75104[0] code[0] clean[0] up[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

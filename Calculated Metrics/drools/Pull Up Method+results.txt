@@ -1,0 +1,7 @@
+9215 e4472edff90210107126edb619beca2f26378eaf 1 -1 0 0
+10291 17b22f8ddb24f5ca46e58678af6fe3cbd2df03c8 1 -1 0 0
+
+  MEAN POSITIVE   �
+   mean negative  � 
+ mean commulative  0
+ mean commulative  subtract0

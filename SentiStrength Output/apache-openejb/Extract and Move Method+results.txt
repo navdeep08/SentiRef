@@ -1,0 +1,2 @@
+Extract and Move Method	Translation	Positive	Negative	EmotionRationale
+9254 commit 5c6d43bfd04fa1031c4d0271a6fd9e32394377d3 refactored the deploy and configutils classes a bit 	9254 commit 5c6d43bfd04fa1031c4d0271a6fd9e32394377d3 refactored the deploy and configutils classes a bit	1	-1	 9254[0] commit[0] 5c6d43bfd04fa1031c4d0271a6fd9e32394377d3[0] refactored[0] the[0] deploy[0] and[0] configutils[0] classes[0] a[0] bit[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

@@ -1,0 +1,2 @@
+Move Method	Translation	Positive	Negative	EmotionRationale
+2918 commit 1d90d04ff623ad5fb061fa86da83b2c255f1772e refactoring and removed duplication 	2918 commit 1d90d04ff623ad5fb061fa86da83b2c255f1772e refactoring and removed duplication	1	-1	 2918[0] commit[0] 1d90d04ff623ad5fb061fa86da83b2c255f1772e[0] refactoring[0] and[0] removed[0] duplication[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

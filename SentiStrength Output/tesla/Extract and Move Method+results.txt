@@ -1,0 +1,2 @@
+Extract and Move Method	Translation	Positive	Negative	EmotionRationale
+8315 commit 1fe8c76a3da0d1dc17d605863bd8a98322a2a9dd move all artifact creation to artifact factory - further refactoring planned 	8315 commit 1fe8c76a3da0d1dc17d605863bd8a98322a2a9dd move all artifact creation to artifact factory - further refactoring planned	1	-1	 8315[0] commit[0] 1fe8c76a3da0d1dc17d605863bd8a98322a2a9dd[0] move[0] all[0] artifact[0] creation[0] to[0] artifact[0] factory[0] further[0] refactoring[0] planned[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

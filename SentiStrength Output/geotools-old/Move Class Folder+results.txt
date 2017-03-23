@@ -1,0 +1,2 @@
+Move Class Folder	Translation	Positive	Negative	EmotionRationale
+4084 commit 4f0d39fff24aa2a8c33029a4b2e3be057bfdbfdf forward porting the h2 module restructure 	4084 commit 4f0d39ff24a2a8c33029a4b2e3be057bfdbfdf forward porting the h2 module restructure	2	-1	 4084[0] commit[0] 4f0d39fff24aa2a8c33029a4b2e3be057bfdbfdf/4f0d39ff24a2a8c33029a4b2e3be057bfdbfdf[0][+0.6 MultipleLetters] forward[0] porting[0] the[0] h2[0] module[0] restructure[0] [[Sentence=-1,2=word max, 1-5]][[[2,-1 max of sentences]]]

@@ -1,0 +1,2 @@
+Pull Up Method	Translation	Positive	Negative	EmotionRationale
+7748 commit 3e719566967b23bd54569d7a86543a50efcc0bd7 refactoring abilitiesencoder 	7748 commit 3e719566967b23bd54569d7a86543a50efcc0bd7 refactoring abilitiesencoder	1	-1	 7748[0] commit[0] 3e719566967b23bd54569d7a86543a50efcc0bd7[0] refactoring[0] abilitiesencoder[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

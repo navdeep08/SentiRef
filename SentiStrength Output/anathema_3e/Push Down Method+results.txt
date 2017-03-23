@@ -1,0 +1,2 @@
+Push Down Method	Translation	Positive	Negative	EmotionRationale
+2685 commit 8c89a6b77f805cec5a534dc2b5740ce784819f34 refactors legalityrenderer towards configurability 	2685 commit 8c89a6b77f805cec5a534dc2b5740ce784819f34 refactors legalityrenderer towards configurability	1	-1	 2685[0] commit[0] 8c89a6b77f805cec5a534dc2b5740ce784819f34[0] refactors[0] legalityrenderer[0] towards[0] configurability[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

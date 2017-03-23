@@ -1,0 +1,2 @@
+Push Down Method	Translation	Positive	Negative	EmotionRationale
+11655 commit 16071d9258e1e1b555adda7cce47d71ce145c7a9 rf checkstyle clean up, data access refactoring 	11655 commit 16071d9258e1e1b55adda7cce47d71ce145c7a9 rf checkstyle clean up, data access refactoring	1	-1	 11655[0] commit[0] 16071d9258e1e1b555adda7cce47d71ce145c7a9/16071d9258e1e1b55adda7cce47d71ce145c7a9[0] rf[0] checkstyle[0] clean[0] up[0] data[0] access[0] refactoring[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

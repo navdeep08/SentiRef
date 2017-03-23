@@ -1,0 +1,2 @@
+Move Class Folder	Translation	Positive	Negative	EmotionRationale
+3155 commit 4f6065b4fa65c698bf05fc654034a4ed65338533 refactoring most tests remove standalone test from junit wildcard 	3155 commit 4f6065b4fa65c698bf05fc654034a4ed65338533 refactoring most tests remove standalone test from junit wildcard	1	-1	 3155[0] commit[0] 4f6065b4fa65c698bf05fc654034a4ed65338533[0] refactoring[0] most[0] tests[0] remove[0] standalone[0] test[0] from[0] junit[0] wildcard[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

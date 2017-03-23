@@ -1,0 +1,9 @@
+863 03beb3c66ce61fef1ecebc0af376c4ecf9283e73 1 -1 0 0
+3256 d9c53e79ff7c510a2dfd10c225d5ecf53094c7b9 1 -1 0 0
+6418 dbd19ad50a89743b9da7d7adcb1aadc581a25a66 1 -1 0 0
+9661 cf7993d25a56d5469b8c2f45e81df4f7bc79e3f9 1 -1 0 0
+
+  MEAN POSITIVE   �
+   mean negative  � 
+ mean commulative  0
+ mean commulative  subtract0

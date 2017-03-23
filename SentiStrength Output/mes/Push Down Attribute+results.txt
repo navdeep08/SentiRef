@@ -1,0 +1,2 @@
+Push Down Attribute	Translation	Positive	Negative	EmotionRationale
+10170 commit 8271a1d698b14d98ee22b646ffd86ae8d4f16c93 qc#qcadoo-546 save file name refactor 	10170 commit 8271a1d698b14d98ee22b646ffd86ae8d4f16c93 qc#qcadoo-546 save file name refactor	2	-1	 10170[0] commit[0] 8271a1d698b14d98ee22b646ffd86ae8d4f16c93[0] qc#qcadoo[0] -546[0] save[1] file[0] name[0] refactor[0] [[Sentence=-1,2=word max, 1-5]][[[2,-1 max of sentences]]]

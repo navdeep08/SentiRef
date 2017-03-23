@@ -1,0 +1,2 @@
+Move Class Folder	Translation	Positive	Negative	EmotionRationale
+6016 commit 4d778003ae3f383f3502dd985b8a22cef2533929 refactored package structure 	6016 commit 4d778003ae3f383f3502dd985b8a22cef2533929 refactored package structure	1	-1	 6016[0] commit[0] 4d778003ae3f383f3502dd985b8a22cef2533929[0] refactored[0] package[0] structure[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

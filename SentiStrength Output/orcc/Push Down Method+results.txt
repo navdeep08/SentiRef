@@ -1,0 +1,2 @@
+Push Down Method	Translation	Positive	Negative	EmotionRationale
+5238 commit af715ba1261fc07131bb4b3919cda726a99d0926 some refactoring and improvements to the sexp api 	5238 commit af715ba1261fc07131bb4b3919cda726a99d0926 some refactoring and improvements to the sexp api	2	-1	 5238[0] commit[0] af715ba1261fc07131bb4b3919cda726a99d0926[0] some[0] refactoring[0] and[0] improvements[1] to[0] the[0] sexp[0] api[0] [[Sentence=-1,2=word max, 1-5]][[[2,-1 max of sentences]]]

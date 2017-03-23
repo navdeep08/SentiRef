@@ -1,0 +1,2 @@
+Move Class Folder	Translation	Positive	Negative	EmotionRationale
+2894 commit ddf9fda1cc3f621d2078b619311b42e620bc3284 sling-5577: refactor content serialization to be independent of persistence 	2894 commit ddf9fda1cc3f621d2078b619311b42e620bc3284 sling-5577: refactor content serialization to be independent of persistence	1	-1	 2894[0] commit[0] ddf9fda1cc3f621d2078b619311b42e620bc3284[0] sling[0] -5577[0] refactor[0] content[0] serialization[0] to[0] be[0] independent[0] of[0] persistence[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

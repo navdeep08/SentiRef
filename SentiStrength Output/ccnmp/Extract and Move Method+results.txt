@@ -1,0 +1,2 @@
+Extract and Move Method	Translation	Positive	Negative	EmotionRationale
+3959 commit 435662adddc7b14701bd17fa572ddf100a773ba9 merge: 70309fe 79c5d75 merge branch 'namespace_refactor' 	3959 commit 435662addc7b14701bd17fa572ddf100a773ba9 merge: 70309fe 79c5d75 merge branch 'namespace_refactor'	1	-1	 3959[0] commit[0] 435662adddc7b14701bd17fa572ddf100a773ba9/435662addc7b14701bd17fa572ddf100a773ba9[0] merge[0] 70309fe[0] 79c5d75[0] merge[0] branch[0] 'namespace_refactor'[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

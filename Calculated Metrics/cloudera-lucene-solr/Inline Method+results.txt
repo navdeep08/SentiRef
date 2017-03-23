@@ -1,0 +1,9 @@
+2001 2526e4088e82365a8eda70f3d4e77d2d452bf616 1 -1 0 0
+3472 655779329ac6c066cf55bff37210f6aac0f22b61 1 -1 0 0
+5701 6a5486b19168b8f59ef18204572342cd4a4271aa 1 -1 0 0
+7191 ed8b339d95152c856ef9ba20430fb40337b1bc52 1 -1 0 0
+
+  MEAN POSITIVE   �
+   mean negative  � 
+ mean commulative  0
+ mean commulative  subtract0

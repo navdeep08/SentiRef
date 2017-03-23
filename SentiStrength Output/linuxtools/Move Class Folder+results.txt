@@ -1,0 +1,2 @@
+Move Class Folder	Translation	Positive	Negative	EmotionRationale
+6011 commit fdd834118cec0f95e1a26a242ab5d7bc8c0b09bc re-name directory to match refactored bundle id. 	6011 commit fdd834118cec0f95e1a26a242ab5d7bc8c0b09bc re-name directory to match refactored bundle id.	1	-1	 6011[0] commit[0] fdd834118cec0f95e1a26a242ab5d7bc8c0b09bc[0] re[0] name[0] directory[0] to[0] match[0] refactored[0] bundle[0] id[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

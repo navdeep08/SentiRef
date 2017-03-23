@@ -1,0 +1,10 @@
+3998 57eb998efcd6031d01fc441ed0bd8b09c30b78c0 1 -1 0 0
+4007 da02c18ad5b54d97a1fcfd5f6633062b0c873c22 2 -3 5 -1
+5068 b293bb776f0e48674fb5f6e6a822a23011dab305 1 -1 0 0
+5072 83dba505e22985fd2f9414e7c6ef14ce29d31713 2 -2 4 0
+7929 bcf38645bef192b380f0d338b263aea075cd1aeb 1 -2 2 -1
+
+  MEAN POSITIVE   2
+   mean negative  2.33 
+ mean commulative  2.2
+ mean commulative  subtract-0.4

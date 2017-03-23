@@ -1,0 +1,6 @@
+7529 a8de21fed43d21838c7b9d4aa3d220d664a81c71 1 -1 0 0
+
+  MEAN POSITIVE   �
+   mean negative  � 
+ mean commulative  0
+ mean commulative  subtract0

@@ -1,0 +1,2 @@
+Push Down Method	Translation	Positive	Negative	EmotionRationale
+2622 commit 0e1ab6e84ecc9f36f2e4839a05734ed43dbced05 bug 108505 - refactor debug 'open type' actions 	2622 commit 0e1ab6e84ecc9f36f2e4839a05734ed43dbced05 bug 108505 - refactor debug 'open type' actions	1	-1	 2622[0] commit[0] 0e1ab6e84ecc9f36f2e4839a05734ed43dbced05[0] bug[0] 108505[0] refactor[0] debug[0] 'open[0] type'[0] actions[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]

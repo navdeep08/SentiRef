@@ -1,0 +1,2 @@
+Extract and Move Method	Translation	Positive	Negative	EmotionRationale
+11570 commit 131b7a4d4afb1409466cc9a70665a3fbdb591229 sc#qcadoo-123 refactor component definition 	11570 commit 131b7a4d4afb1409466cc9a70665a3fbdb591229 sc#qcadoo-123 refactor component definition	1	-1	 11570[0] commit[0] 131b7a4d4afb1409466cc9a70665a3fbdb591229[0] sc#qcadoo[0] -123[0] refactor[0] component[0] definition[0] [[Sentence=-1,1=word max, 1-5]][[[1,-1 max of sentences]]]
