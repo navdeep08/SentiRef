@@ -1,6 +1,6 @@
 # SentiRef
 
-SentiRef is a dataset of identified Emotional Scores in Refactoring Commit Messages of GitHub projects. SentiRef consists of 3,170 commit messages with 26,410 instances of following Refactoring Activities:
+SentiRef is a dataset of identified Emotional Scores in Refactoring Commit Messages of GitHub projects. SentiRef consists of 3,171 commit messages with 4,891 instances of following Refactoring Activities:
 
     1. Extract Method
     2. Extract Interface
